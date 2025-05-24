@@ -6,9 +6,7 @@ Primero descargar el archivo "RPGAME.zip".,
 
 Después se extrae la carpeta con el mismo nombre "RPGAME".,
 
-Dentro de la carpeta "GAME" una vez extraída, entrar en la carpeta "dist".,
-
-Por ultimo, una vez dentro, ejecutar el archivo .exe llamado "GAME",
+Dentro de la carpeta "GAME" una vez extraída, dentro, ejecutar el archivo .exe llamado "GAME",
 
 ———————————————————————————————————————————————————
 DENTRO DEL PROGRAMA:
