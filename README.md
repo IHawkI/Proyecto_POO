@@ -13,3 +13,4 @@ DENTRO DEL PROGRAMA:
 1.-Teclas de ↑↓→← para moverse
 2.-Espacio para atacar
 3.- ya dentro del combate con click se puede atacar y usar pociones
+
