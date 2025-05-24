@@ -13,4 +13,5 @@ DENTRO DEL PROGRAMA:
 1.-Teclas de ↑↓→← para moverse
 2.-Espacio para atacar
 3.- ya dentro del combate con click se puede atacar y usar pociones
+enlace para descargar el zip:https://drive.google.com/drive/u/1/folders/1IdUfsQy6Rq23YcBNqjrIw-3FTsOeusry
 
